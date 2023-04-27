@@ -1,0 +1,55 @@
+2023-04-25 11:33:57,317 :INFO :test_FillingFormAndPurchase :Successfully filled the form
+2023-04-25 11:33:57,318 :INFO :test_FillingFormAndPurchase :×
+Success! The Form has been submitted successfully!.
+2023-04-25 11:33:58,238 :INFO :test_FillingFormAndPurchase :Adding Blackberry to cart
+2023-04-25 11:33:58,345 :INFO :test_FillingFormAndPurchase :Added Blackberry, and processing to payment page
+2023-04-25 11:34:03,599 :INFO :test_FillingFormAndPurchase :Entered country name
+2023-04-25 11:34:03,705 :INFO :test_FillingFormAndPurchase :Purchase success
+2023-04-25 11:35:53,884 :INFO :test_FillingFormAndPurchase :Successfully filled the form
+2023-04-25 11:35:53,884 :INFO :test_FillingFormAndPurchase :×
+Success! The Form has been submitted successfully!.
+2023-04-25 11:35:54,829 :INFO :test_FillingFormAndPurchase :Adding Blackberry to cart
+2023-04-25 11:35:54,935 :INFO :test_FillingFormAndPurchase :Added Blackberry, and processing to payment page
+2023-04-25 11:36:00,166 :INFO :test_FillingFormAndPurchase :Entered country name
+2023-04-25 11:36:00,272 :INFO :test_FillingFormAndPurchase :Purchase success
+2023-04-25 15:45:52,597 :INFO :test_FillingFormAndPurchase :Successfully filled the form
+2023-04-25 15:45:52,597 :INFO :test_FillingFormAndPurchase :×
+Success! The Form has been submitted successfully!.
+2023-04-25 15:45:53,535 :INFO :test_FillingFormAndPurchase :Adding Blackberry to cart
+2023-04-25 15:45:53,643 :INFO :test_FillingFormAndPurchase :Added Blackberry, and processing to payment page
+2023-04-25 15:45:58,896 :INFO :test_FillingFormAndPurchase :Entered country name
+2023-04-25 16:54:15,983 :INFO :test_FillingFormAndPurchase :Successfully filled the form
+2023-04-25 16:54:15,983 :INFO :test_FillingFormAndPurchase :×
+Success! The Form has been submitted successfully!.
+2023-04-25 16:54:17,193 :INFO :test_FillingFormAndPurchase :Adding Blackberry to cart
+2023-04-25 16:54:17,286 :INFO :test_FillingFormAndPurchase :Added Blackberry, and processing to payment page
+2023-04-25 16:54:22,512 :INFO :test_FillingFormAndPurchase :Entered country name
+2023-04-25 16:54:22,622 :INFO :test_FillingFormAndPurchase :Purchase success
+2023-04-25 17:00:03,734 :INFO :test_FillingFormAndPurchase :Successfully filled the form
+2023-04-25 17:00:03,735 :INFO :test_FillingFormAndPurchase :×
+Success! The Form has been submitted successfully!.
+2023-04-25 17:00:04,658 :INFO :test_FillingFormAndPurchase :Adding Blackberry to cart
+2023-04-25 17:00:04,771 :INFO :test_FillingFormAndPurchase :Added Blackberry, and processing to payment page
+2023-04-25 17:00:10,030 :INFO :test_FillingFormAndPurchase :Entered country name
+2023-04-25 17:00:10,143 :INFO :test_FillingFormAndPurchase :Purchase success
+2023-04-25 17:02:15,419 :INFO :test_FillingFormAndPurchase :Successfully filled the form
+2023-04-25 17:02:15,419 :INFO :test_FillingFormAndPurchase :×
+Success! The Form has been submitted successfully!.
+2023-04-25 17:02:16,369 :INFO :test_FillingFormAndPurchase :Adding Blackberry to cart
+2023-04-25 17:02:16,614 :INFO :test_FillingFormAndPurchase :Added Blackberry, and processing to payment page
+2023-04-25 17:02:22,315 :INFO :test_FillingFormAndPurchase :Entered country name
+2023-04-25 17:02:22,753 :INFO :test_FillingFormAndPurchase :Purchase success
+2023-04-25 17:07:28,974 :INFO :test_FillingFormAndPurchase :Successfully filled the form
+2023-04-25 17:07:28,974 :INFO :test_FillingFormAndPurchase :×
+Success! The Form has been submitted successfully!.
+2023-04-25 17:07:29,901 :INFO :test_FillingFormAndPurchase :Adding Blackberry to cart
+2023-04-25 17:07:30,013 :INFO :test_FillingFormAndPurchase :Added Blackberry, and processing to payment page
+2023-04-25 17:07:35,245 :INFO :test_FillingFormAndPurchase :Entered country name
+2023-04-25 17:07:35,350 :INFO :test_FillingFormAndPurchase :Purchase success
+2023-04-25 18:25:58,750 :INFO :test_FillingFormAndPurchase :Successfully filled the form
+2023-04-25 18:25:58,750 :INFO :test_FillingFormAndPurchase :×
+Success! The Form has been submitted successfully!.
+2023-04-25 18:25:59,723 :INFO :test_FillingFormAndPurchase :Adding Blackberry to cart
+2023-04-25 18:25:59,828 :INFO :test_FillingFormAndPurchase :Added Blackberry, and processing to payment page
+2023-04-25 18:26:05,047 :INFO :test_FillingFormAndPurchase :Entered country name
+2023-04-25 18:26:05,146 :INFO :test_FillingFormAndPurchase :Purchase success
