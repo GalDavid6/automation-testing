@@ -29,21 +29,22 @@ def setup(request):
     driver.get("https://rahulshettyacademy.com/angularpractice/")
     driver.maximize_window()
     request.cls.driver = driver
-    # assign the driver we created to cls(class) later wherever we will use setup in our program
-    # we will be able to use driver
+    """
+    assign the driver to cls(class) later wherever we will use setup in our program
+    we will be able to use driver
+    """
     yield
-    # yield is like splitting the code "run" into two (before yield and after) when we reach yield line all fixture
-    # with "setup" will run and when they are done the program will return to here where is stops
-    # after:
+    """
+    yield is like splitting the code "run" into two (before yield and after) when we reach yield line all fixture
+    with "setup" will run and when they are done the program will return to here where is stops
+    after:
+    """
     driver.close()
 
 
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item):
-    """
-    Extends the PyTest Plugin to take and embed screenshot in html report, whenever test fails.
-    :param item:
-    """
+    """Extends the PyTest Plugin to take and embed screenshot in html report, whenever test fails. :param item:"""
     pytest_html = item.config.pluginmanager.getplugin('html')
     outcome = yield
     report = outcome.get_result()

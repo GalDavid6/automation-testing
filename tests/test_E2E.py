@@ -1,7 +1,6 @@
 import pytest
 
 from pageObjects.HomePage import HomePage
-from tests.test_HomePage import TestHomePage
 from testsData.testsData import TestData
 from utilities.Setup import Setup
 
