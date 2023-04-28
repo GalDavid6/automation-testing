@@ -21,7 +21,7 @@
 ---
 ## Project structure
 
-- PageObjects -> hold a Class for each page on the website, helps us to get elements of each page. 
+- PageObjects -> hold a Class for each page on the website, helps us to get elements from each page. 
 	- CheckoutPage.py
 	- ConfirmPage.py
 	- HomePage.py
@@ -33,17 +33,17 @@
 	- test_CheckoutPage.py
 	- test_HomePage.py
 	- test_E2E
-	- screenshots from failed tests
-	- conftest.py (instead of copy default line code as config necceseray for each test,
-		 with pytest fixture i'm doing that once and using in class utilities.Setup)
+	- screenshots 
+	- conftest.py (instead of copying code lines necessary for each test,
+	  with Pytest fixture I'm doing that once and using in class utilities.Setup for reusable purposes)
 	
-- TestsData -> holding a xlsx file with data and parameters for each test 
+- TestsData -> holding an xlsx file with data and parameters for each test 
 	     and class with a method to extract the data for each test.
 	-testsData.py
 	-TestsData.xlsx
 
 - Utilites -> 
-	- Setup.py - reuseable class that hold reuseable methods, logger, and default setttings for each test.
+	- Setup.py - a reusable class that hold reuseable methods, logger, and default setttings for each test.
 	- logfile.log
 
 ---
